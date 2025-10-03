@@ -2,7 +2,6 @@
 # Pattern: Root → Left → Right (🔵 Root comes FIRST)
 
 import BinaryTree as BT  # Import our binary tree structure
-node = BT.Node
 
 def preOrderTraversal(node):
     """
